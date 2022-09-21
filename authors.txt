@@ -2,4 +2,4 @@
 JD Kilgallin
 jdk72
 otherJDK
-Suicune
+Suicune OR Scizor
